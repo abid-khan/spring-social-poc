@@ -1,1 +1,1 @@
-# spring-social-poc
+# Spring Security for Social POC
